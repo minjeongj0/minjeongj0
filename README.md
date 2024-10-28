@@ -33,4 +33,4 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚌 Top Langs & Algorithm
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongj0&langs_count=10&layout=compact&theme=dark)](https://github.com/minjeongj0/minjeongj0)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongj0&langs_count=10&layout=compact&theme=redical)](https://github.com/minjeongj0/minjeongj0)﻿
