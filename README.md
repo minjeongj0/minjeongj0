@@ -34,5 +34,5 @@
 
 ### 🚌 Top Langs & Algorithm
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongj0&langs_count=10&layout=compact&theme=redical)](https://github.com/minjeongj0/minjeongj0)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=algoia"/>
-- coalt2
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongj0&layout=compact&theme=algoia"/>
+
