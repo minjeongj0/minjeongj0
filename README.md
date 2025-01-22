@@ -1,9 +1,12 @@
 <!-- Header -->
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20MinJeong!&fontAlign=50&fontAlignY=50&color=gradient)
 
-<div align="center" style="margin: 0 auto; max-width: 500px;">
+<div align="center">
 
-  
+<!-- Body -->
+
+<div style="display: inline-block; text-align: left; max-width: 800px;">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🙇 안녕하세요, BackEnd Programmer로 성장해나가고 있는 조민정입니다!
@@ -37,4 +40,5 @@
 
 ### 🚌 Top Langs & Algorithm
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongj0&layout=compact&theme=algoia"/>
+</div>
 </div>
