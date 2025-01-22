@@ -7,6 +7,8 @@
 
 ### 🙇 안녕하세요, BackEnd Programmer로 성장해나가고 있는 조민정입니다!
 
+
+
 <!-- Body -->
 
 ### 🦾 Skills
@@ -24,6 +26,7 @@
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 
+
 **🛠️ Infra and Tools**
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
@@ -35,6 +38,8 @@
 ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+
 
 
 ### 🚌 Top Langs & Algorithm
